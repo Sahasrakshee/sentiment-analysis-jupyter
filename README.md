@@ -1,10 +1,6 @@
 # sentiment-analysis-jupyter-bert
-This project implements sentiment analysis on user reviews using BERT (Bidirectional Encoder Representations from Transformers), a state-of-the-art transformer-based model for Natural Language Processing (NLP). The goal of the project is to automatically analyze user opinions and classify each review into one of three sentiment categories:
-
-Negative
-
-Neutral
-
-Positive
-
-Unlike traditional machine learning models, BERT understands the context and meaning of words in a sentence, making it highly effective for sentiment classification tasks.
+This Jupyter Notebook implements sentiment analysis on user reviews using a BERT-based model. 
+The notebook covers text preprocessing, BERT tokenization, model fine-tuning, and prediction, 
+classifying reviews into three sentiment classes: **Negative**, **Neutral**, and **Positive**. 
+It demonstrates how transformer-based models can effectively capture contextual meaning in text 
+for accurate sentiment classification.
